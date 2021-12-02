@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I am <a href="https://www.linkedin.com/in/kushagra-shukla-0672b8208/">KUSHAGRA SHUKLA!</a> 👋 Great to see u here!</h1>
+<h1 align="center">Hi, I am <a href="https://www.linkedin.com/in/kushagra-shukla-0672b8208/">KUSHAGRA SHUKLA!</a> 👋 Great to see u here!</h1>
 
 - 🔭 I’m currently working as an executive board member of Computer Engineering Society [[CES]](https://www.linkedin.com/company/cesmmmut/)
 - 🌱 I’m currently learning Data Structures & Algorithms in C/C++, frontend web development
