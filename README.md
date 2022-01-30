@@ -1,4 +1,8 @@
 <h1 align="center">Hi, I am <a href="https://www.linkedin.com/in/kushagra-shukla-0672b8208/">KUSHAGRA SHUKLA!</a> 👋 Great to see u here!</h1>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SHUKLA-KUSHAGRA&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SHUKLA-KUSHAGRA" alt="" /></a> </p>
+<br>
 
 - 🔭 I’m currently working as an executive board member of Computer Engineering Society [[CES]](https://www.linkedin.com/company/cesmmmut/)
 - 🌱 I’m currently learning Data Structures & Algorithms in C/C++, frontend web development
