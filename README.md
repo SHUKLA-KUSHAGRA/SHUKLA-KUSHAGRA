@@ -13,14 +13,14 @@
 - 📫 How to reach me: [email : shukla.kushagra.business@gmail.com] [Phone : +91 9695117353]
 - 😄 Pronouns: He/His
 <br><br>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JAVA" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JAVA" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHUKLA-KUSHAGRA&show_icons=true&theme=tokyonight" alt="" />
 <img src="https://github-readme-stats.vercel.app/api?username=SHUKLA-KUSHAGRA&show_icons=true&theme=tokyonight">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHUKLA-KUSHAGRA&show_icons=true&theme=tokyonight" alt="" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHUKLA-KUSHAGRA&show_icons=true&theme=tokyonight" alt="" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUKLA-KUSHAGRA&show_icons=true&theme=tokyonight" alt="" />
