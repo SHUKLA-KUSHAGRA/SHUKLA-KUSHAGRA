@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as an executive board member of Computer Engineering Society [[CES]](https://www.linkedin.com/company/cesmmmut/)
 - 🌱 I’m currently learning Data Structures & Algorithms in C/C++, frontend web development
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with Data Structures and Algorithm
+- 🤔 I’m looking for help with Data Structures and Algorithm & ReactJS
 - 💬 Ask me about C , C++ , JAVA programming
 - 🔭 Problem Setting intern DSA with iMochaWorks
 - 🔭 Worked as contributor in an Open Source Contribution Program GWoC'21
