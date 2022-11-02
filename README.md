@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Data Structures and Algorithm
 - 💬 Ask me about C , C++ , JAVA programming
+- 🔭 Problem Setting intern DSA with iMochaWorks
 - 🔭 Worked as contributor in an Open Source Contribution Program GWoC'21
 - 📫 How to reach me: [email : shukla.kushagra.business@gmail.com] [Phone : +91 9695117353]
 - 😄 Pronouns: He/His
