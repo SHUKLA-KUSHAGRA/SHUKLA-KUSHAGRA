@@ -22,8 +22,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHUKLA-KUSHAGRA&show_icons=true&theme=tokyonight" alt="" />
-<img src="https://github-readme-stats.vercel.app/api?username=SHUKLA-KUSHAGRA&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHUKLA-KUSHAGRA&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="" />
+<img src="https://github-readme-stats.vercel.app/api?username=SHUKLA-KUSHAGRA&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt=""/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUKLA-KUSHAGRA&show_icons=true&theme=tokyonight" alt="" />
