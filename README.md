@@ -14,7 +14,7 @@
 - 📫 How to reach me: [email : shukla.kushagra.business@gmail.com] [Phone : +91 9695117353]
 - 😄 Pronouns: He/His
 <br><br>
-<div>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JAVA" width="60" height="60"/>
@@ -29,7 +29,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-</div>
+</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHUKLA-KUSHAGRA&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="" style="display: block;width: 150%;height:200px" />
 <img src="https://github-readme-stats.vercel.app/api?username=SHUKLA-KUSHAGRA&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="" style="display: block;width: 150%;height:200px""/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUKLA-KUSHAGRA&show_icons=true&theme=tokyonight" alt="" style="display:block;width:150%;height:200px" />
