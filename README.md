@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am <a href="https://kushagra-portfolio-react.netlify.app/">KUSHAGRA SHUKLA!</a> 👋 Great to see u here!</h1>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SHUKLA-KUSHAGRA&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=SHUKLA-KUSHAGRA" alt="" style="display:block;width:150%;height:100px"/> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=SHUKLA-KUSHAGRA" alt="" style="display:flex;width:200%;height:300px"/> </p>
 <br>
 
 
