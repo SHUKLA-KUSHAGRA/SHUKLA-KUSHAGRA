@@ -36,6 +36,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHUKLA-KUSHAGRA&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="" style="display: block;width: 150%;height:200px" />
 <img src="https://github-readme-stats.vercel.app/api?username=SHUKLA-KUSHAGRA&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="" style="display: block;width: 150%;height:200px""/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUKLA-KUSHAGRA&show_icons=true&theme=tokyonight" alt="" style="display:block;width:150%;height:200px" />
-<br>
+<!-- <br>
 <h1 align="center">CONTRIBUTION GRAPH</h1>
-<img src="https://github.com/SHUKLA-KUSHAGRA/SHUKLA-KUSHAGRA/blob/output/github-contribution-grid-snake.svg" alt="snake-graph" style="display: block;width: 150%;"/>
+<img src="https://github.com/SHUKLA-KUSHAGRA/SHUKLA-KUSHAGRA/blob/output/github-contribution-grid-snake.svg" alt="snake-graph" style="display: block;width: 150%;"/> -->
