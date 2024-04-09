@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 🦝 If your'e looking out for your next hire, I am the one
 - 📫 How to reach me **shukla.kushagra.mmmut@gmail.com**
-- ⚡ For Fun **Games, Rosting, Mems, HipHop**
+- ⚡ For Fun **Games, Music**
 - 😄 Pronouns: He/Him
   
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=SHUKLA-KUSHAGRA" alt="" style="display:flex;width:200%;height:150px"/</p>
