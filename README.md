@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,bootstrap,mongodb,express,react,nodejs,git,github" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,ts,tailwind,docker,npm,cloudflare,vscode,materialui,postgres,prisma,vite" />
+  <img src="https://skillicons.dev/icons?i=next,ts,tailwind,docker,npm,cloudflare,vscode,materialui,postgres,prisma,vite,postman" />
 </p>
 
 <h2> Github Stats 📊</h2>
