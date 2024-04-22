@@ -14,7 +14,7 @@
 - ⚡ For Fun **Games, Music**
 - 😄 Pronouns: He/Him
   
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=SHUKLA-KUSHAGRA" alt="" style="display:flex;width:200%;height:150px"/</p>
+<p align="center"> <img src="https://github-trophies.vercel.app/?username=SHUKLA-KUSHAGRA" alt="" style="display:flex;width:200,height:200"/</p>
 
 <h2> Languages & Tools 🔨</h2>
 <p align="center">
